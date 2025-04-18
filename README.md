@@ -2,5 +2,5 @@
 
 📌 Akses materi dan aktivitas: [Klik di sini]()
 
-> ⚠️ **Peringatan:** Mohon **jangan menyebarkan materi ini ke praktikan** tanpa izin asisten.
+> ⚠️ **Peringatan:** Mohon **jangan menyebarkan source code ini ke praktikan** tanpa izin yang bersangkutan.
 
