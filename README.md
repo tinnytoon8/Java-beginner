@@ -1,4 +1,6 @@
-Kursus Introduction to Java Language Programming
+## **Introduction to Java Language Programming**
 
-Link materi dan act:
+📌 Akses materi dan aktivitas: [Klik di sini]()
+
+> ⚠️ **Peringatan:** Mohon **jangan menyebarkan materi ini ke praktikan** tanpa izin asisten.
 
