@@ -1,0 +1,24 @@
+## Cara Menggunakan jcalendar
+
+1. Download jcalendar di github, nanti upload di act buat praktikan
+2. Letakkan jcalendar di folder yang mudah dicari
+
+### Setup awal (di palette belum ada jCalendar)
+
+1. tools
+2. palette
+3. Swing/AWT
+4. Pilih Swing control
+5. Add from JAR
+6. cari file JAR JCalendar
+7. Klik Swing Control
+8. Finish
+
+### Setup jika di palette ada jcalendar tapi error
+
+1. Klik kanan project
+2. Pilih properties
+3. Pilih menu Libraries di sidebar kiri
+4. Tekan tombol "Add Jar/Folder"
+5. Cari JAR jcalendar
+6. Kalo udah OK
