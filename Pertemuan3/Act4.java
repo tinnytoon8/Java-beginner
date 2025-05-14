@@ -33,7 +33,6 @@ public class Act4 {
         while (fileScanner.hasNextLine()) {
             System.out.println(fileScanner.nextLine());
         }
-
         fileScanner.close();
     }
 }
